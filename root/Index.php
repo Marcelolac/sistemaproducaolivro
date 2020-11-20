@@ -25,14 +25,13 @@
         <div class="row">
             <div class="col-md-4 col-md-offset-4" Align="center">
                 <div class="login-panel panel panel-default">
-                    <div class="panel-heading" top="50%" >
-                       
-                        <h3 class="panel-title">Produção de Livros ULBRA/EAD</h3>
+                    <div class="panel-heading" top="50%">
+                        <h3 class="panel-title">Produção de Livros ULBRA/NATE/EAD</h3>
                     </div>
                     <div class="panel-body">
                         <form role="form" action="Frontend/login.php" method="post">
                             <fieldset>
-								<label>Digite seu Email e Senha para acessar.</label>
+								<label>Digite seu Email e Senha para acessar</label>
                                 <p>
                                 <div class="form-group">
                                 <input  class="form-control" placeholder="Email" name="email" type="email" autofocus>

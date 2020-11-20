@@ -17,7 +17,6 @@ $usuario = $_SESSION['usuario_logado'];
     <meta name="description" content="">
     <meta name="author" content="">
     <title>SPL Ulbra/EAD</title>
-
      <!-- Bootstrap Core CSS -->
     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- MetisMenu CSS -->

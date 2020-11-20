@@ -21,8 +21,8 @@
 	if ($check == 0){
 		if($usuario = mysqli_query($criar_con ,"INSERT INTO livro (codigo, semestre, curso, disciplina, autor, situacao) VALUES ('$codigo', '$semestre', '$curso', '$disciplina', '$autor', '$situacao')")){
 			echo "<script>
-				alert('Livro cadastrado com sucesso!');
-				window.location.href='../Frontend/cadastrar_livros.php';
+					alert('Livro cadastrado com sucesso!');
+					window.location.href='../Frontend/cadastrar_livros.php';
 				</script>";
 		}
 		else{
